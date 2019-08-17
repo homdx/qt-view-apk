@@ -1,0 +1,9 @@
+{
+  "qt-view": "test",
+  "versions": [
+    {"appver": "0.0.1", "changesTxt": "Version with store phone and pass"},
+    {"appver": "0.0.2", "changesTxt": "Update links"},
+    {"appver": "0.0.3", "changesTxt": "Next new gui vers - prov by L"}
+    ],
+  "number" : 3
+}
